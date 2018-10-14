@@ -6,6 +6,7 @@ class Student
   end 
   
   def hello
+    puts ''
   end 
   
   def raise_hand
