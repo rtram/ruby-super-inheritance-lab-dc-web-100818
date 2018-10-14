@@ -1,4 +1,4 @@
-requie 'pry'
+require 'pry'
 
 class Student 
   
