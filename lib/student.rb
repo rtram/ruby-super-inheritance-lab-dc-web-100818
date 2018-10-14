@@ -1,4 +1,4 @@
-
+requie 'pry'
 
 class Student 
   
